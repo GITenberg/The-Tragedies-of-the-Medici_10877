@@ -1,0 +1,26 @@
+_repo: The-Tragedies-of-the-Medici_10877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Staley, Edgcumbe
+    aliases:
+    - Staley, John Edgcumbe
+    - Stanley, Edgcumbe
+    birthdate: 1845
+    gutenberg_agent_id: '3733'
+    url: http://www.gutenberg.org/2009/agents/3733
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Medici, House of'
+- GITenberg
+title: The Tragedies of the Medici
+url: http://www.gutenberg.org/ebooks/10877
